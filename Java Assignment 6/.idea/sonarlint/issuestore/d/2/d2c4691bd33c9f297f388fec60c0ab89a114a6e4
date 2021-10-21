@@ -1,0 +1,12 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "helperClass".(äŸë©
+F
+java:S1481"0Remove this unused "helperClass" local variable.(äŸë©
+@
+java:S1197"*Move the array designators [] to the type.(ÈÒò
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÄŞÙûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ë˜Ğ
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±™µúÿÿÿÿ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óı¸Ë

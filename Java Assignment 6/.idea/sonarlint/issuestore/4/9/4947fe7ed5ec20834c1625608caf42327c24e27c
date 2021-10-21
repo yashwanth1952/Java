@@ -1,0 +1,16 @@
+
+O
+java:S1118":Add a private constructor to hide the implicit public one.(ƒàÕl
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(µê—Äùÿÿÿÿ
+V
+java:S1126"AReplace this if-then-else statement by a single return statement.(›‡êZ
+8
+java:S1659""Declare "numc" on a separate line.(ÖÚ¨Ë
+@
+java:S1197"*Move the array designators [] to the type.(ÖÚ¨Ë
+@
+java:S1197"*Move the array designators [] to the type.(ÖÚ¨Ë
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(à…Óúÿÿÿÿ8™ƒ¯ÂÉ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çø¶Äúÿÿÿÿ

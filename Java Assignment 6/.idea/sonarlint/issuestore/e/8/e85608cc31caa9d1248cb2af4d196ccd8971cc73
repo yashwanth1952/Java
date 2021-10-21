@@ -1,0 +1,6 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "helper".(ËòÁŞúÿÿÿÿ
+F
+java:S1481"+Remove this unused "helper" local variable.(ËòÁŞúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÄŞÙûÿÿÿÿ

@@ -1,0 +1,20 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "s".(£ê…æ
+?
+java:S1197"*Move the array designators [] to the type.(¸Ñ°.
+j
+java:S3986"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(÷›»Èûÿÿÿÿ8†»»É/
+L
+java:S1197"*Move the array designators [] to the type.(Ù‡ÂÜşÿÿÿÿ8†»»É/
+L
+java:S1197"*Move the array designators [] to the type.(ÌëØŠşÿÿÿÿ8‡»»É/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(¡Œü¶8‰»»É/
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(¡Œü¶8Š»»É/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(µí‰Ñúÿÿÿÿ8Š»»É/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(Øˆ§ÿùÿÿÿÿ8Œ»»É/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(Í•§¯ÿÿÿÿÿ8Œ»»É/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(şñ‚Ÿıÿÿÿÿ8»»É/
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‡ÂÜşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌëØŠşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(çø¶Äúÿÿÿÿ

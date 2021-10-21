@@ -1,0 +1,9 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(î¦æ8
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾‹¡‘
+
+java:S1319"iThe type of "arrayList" should be an interface such as "List" rather than the implementation "ArrayList".(ø¹˜·
+Q
+java:S4973
+"<Strings and Boxed types should be compared using "equals()".(­Ü‰;
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰°õœ
